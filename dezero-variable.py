@@ -27,3 +27,4 @@ print(type(y))
 print(y.data)
 
 print(x.data)
+print(x.data)
